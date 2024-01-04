@@ -4,8 +4,8 @@ import React from "react"
 //     return <h1>Hello From React!</h1>
 // }
 
-const FunctionalGreeting = () => <h1>Hello From React</h1>
+// const FunctionalGreeting = () => <h1>Hello From React</h1>
 
-export default FunctionalGreeting
+// export default FunctionalGreeting
 
  
