@@ -13,7 +13,7 @@ function UserMessage(props) {
 
                 </ol>
             </div>
-        ) : (<p>Please sign in</p>)}
+        ) : (<p>Please sign in mate</p>)}
     </div>
   )
 }
